@@ -1,2 +1,2 @@
 <?php
-each "new world";
+    echo "new";
